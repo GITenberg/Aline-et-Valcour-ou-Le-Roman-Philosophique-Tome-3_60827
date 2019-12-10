@@ -1,5 +1,8 @@
 _repo: Aline-et-Valcour-ou-Le-Roman-Philosophique-Tome-3_60827
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sade, marquis de
@@ -18,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Marquis_de_Sade
     - http://fr.wikipedia.org/wiki/Donatien_Alphonse_Fran%C3%A7ois_de_Sade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60827#Aline-et-Valcour-ou-Le-Roman-Philosophique-Tome-3
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
